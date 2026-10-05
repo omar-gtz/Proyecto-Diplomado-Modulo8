@@ -210,7 +210,7 @@ ui <- page_navbar(
              markdown("
            Fuente: INEGI, ATUS 2025.
            
-           Cobertura: accidentres de tránsito en zonas urbanas y suburbanas donde el presunto responsable fue el conductor a nivel nacional.
+           Cobertura: Accidentes de tránsito en zonas urbanas y suburbanas a nivel nacional donde el presunto responsable fue el conductor.
           ")
         ),
         tarjeta("Clase de accidente", "o_objetivo_clase", alto = "320px"),
